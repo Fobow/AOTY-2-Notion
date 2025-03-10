@@ -1,5 +1,7 @@
 # 一键个人音乐库
 
+Add albums from AOTY to your own Notion database with one click.
+
 ![Example Usage](./pics/demo.gif)
 
 ## 使用

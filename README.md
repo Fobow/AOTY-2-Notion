@@ -1,5 +1,7 @@
 # One-Click Personal Music Library
 
+Add albums from AOTY to your own Notion database with one click.
+
 ![Example Usage](./pics/demo.gif)
 
 ## Usage
