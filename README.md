@@ -37,9 +37,13 @@
    * You need to configure your database id ```$DATABASE_ID``` and the cloudflare worker endpoint ```$WORKER_URL``` here (in the ```addToNotion()``` function).
 3. You can now add albums to your own database with one click.
 
+### Extension
+
+The web page--CORS proxy--Notion API framework should be general. You can update your Notion database using other websites as well, as long as they offer structured information.
+
 ## ToDo
 
-- [ ] Add support for other music sites like rateyourmusic.com
+- [ ] Add support for other music sites like rateyourmusic.com.
 - [ ] Save to library on Apple Music and Spotify at the same time.
 
 ## Acknowledgements

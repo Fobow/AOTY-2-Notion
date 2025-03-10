@@ -31,6 +31,9 @@
 2. 将 `./aoty2notion.js` 安装到浏览器插件。这里需要配置你的数据库id和云服务器端点（比如```https://woker.xxx.workers.dev/addAlbum```）。
 3. 现在你就可以在 aoty.org 上点击“添加到Notion”按钮，将专辑信息添加到你的Notion个人音乐库中。
 
+### 扩展
+
+网页--跨域请求代理--Notion API框架应该具有通用性。你可以使用其他网站更新你的Notion数据库，只要这些网站提供结构化信息。比如rym，豆瓣电影，IMDB， 甚至amazon，淘宝等等（如果你想记录你的购物清单）。
 
 ## ToDo
 
